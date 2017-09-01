@@ -1,0 +1,12 @@
+{
+	"name": "bearsu/hellophp",
+	"description": "",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "suxiongit",
+			"email": "suxiongit@qq.com",
+		}
+	],
+	"require": {}
+}
